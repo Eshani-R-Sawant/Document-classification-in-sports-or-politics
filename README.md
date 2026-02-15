@@ -1,4 +1,4 @@
-# 📰 BBC News Classifier: Sport vs. Politics
+# 📰 Document Classifier: Sport vs. Politics
 ### A Machine Learning & NLP Pipeline
 
 This project is a comprehensive implementation of a text classification system designed to categorize BBC news articles into **Sport** or **Politics**. To demonstrate a deep understanding of the mathematical foundations of AI, the entire pipeline—from **feature extraction** to **machine learning models**—was built manually without standard libraries..
@@ -57,10 +57,12 @@ We implemented and compared three distinct mathematical frameworks:
 
 ## 🚀 How to Run
 
-### 1. Prerequisites
+1. Prerequisites
 Ensure you have Python installed along with the following libraries:
+
 ```bash
-### 2. Dataset Setup
+pip install pandas numpy matplotlib
+2. Dataset Setup
 Place the bbc_news.csv file in the same directory as the script. 
 
 3. Execution
@@ -70,7 +72,7 @@ python RollNumber_prob4.py
 
 4. Output
 Terminal: Displays progress of feature extraction and training.
-<img width="695" height="451" alt="image" src="https://github.com/user-attachments/assets/8c7a13c2-e2d1-485b-a1c0-482e8ba4f79c" />
+<img src="https://github.com/user-attachments/assets/01db2c8a-b8af-40cb-912e-9f1812fdee9e" width="695" height="451" alt="Model Comparison Results">
 
 
 
