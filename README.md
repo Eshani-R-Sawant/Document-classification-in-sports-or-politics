@@ -72,7 +72,8 @@ python RollNumber_prob4.py
 
 4. Output
 Terminal: Displays progress of feature extraction and training.
-<img src="https://github.com/user-attachments/assets/01db2c8a-b8af-40cb-912e-9f1812fdee9e" width="695" height="451" alt="Model Comparison Results">
+
+<img src="https://github.com/user-attachments/assets/01db2c8a-b8af-40cb-912e-9f1812fdee9e" width="695" alt="Model Comparison Results">
 
 
 
