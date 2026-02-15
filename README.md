@@ -51,7 +51,7 @@ We implemented and compared three distinct mathematical frameworks:
 | **Logistic Regression** | Discriminative | Optimized using manual Gradient Descent. |
 | **Linear SVM** | Geometric | Maximizes decision margin via Hinge Loss. |
 
-
+<img src="https://github.com/user-attachments/assets/01db2c8a-b8af-40cb-912e-9f1812fdee9e" width="695" alt="Model Comparison Results">
 
 ---
 
@@ -70,10 +70,9 @@ Run the main script using the following command:
 Bash
 python RollNumber_prob4.py
 
-4. Output
-Terminal: Displays progress of feature extraction and training.
 
-<img src="https://github.com/user-attachments/assets/01db2c8a-b8af-40cb-912e-9f1812fdee9e" width="695" alt="Model Comparison Results">
+
+
 
 
 
