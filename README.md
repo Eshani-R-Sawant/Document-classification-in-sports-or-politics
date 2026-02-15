@@ -60,4 +60,17 @@ We implemented and compared three distinct mathematical frameworks:
 ### 1. Prerequisites
 Ensure you have Python installed along with the following libraries:
 ```bash
-pip install pandas numpy matplotlib
+### 2. Dataset Setup
+Place the bbc_news.csv file in the same directory as the script. 
+
+3. Execution
+Run the main script using the following command:
+Bash
+python RollNumber_prob4.py
+
+4. Output
+Terminal: Displays progress of feature extraction and training.
+<img width="695" height="451" alt="image" src="https://github.com/user-attachments/assets/8c7a13c2-e2d1-485b-a1c0-482e8ba4f79c" />
+
+
+
